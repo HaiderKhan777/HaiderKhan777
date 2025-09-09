@@ -15,7 +15,6 @@ Currently, I’m expanding my skills in software development and exploring creat
 ---
 
 ## 📌 Featured Projects  
-## 📌 Featured Projects  
 🔹 [**Portfolio Website**](https://haiderkhan777.github.io/Portfolio/) – A personal portfolio showcasing my projects, skills, and achievements.  
 🔹 [**SpaceShooter Game**](https://github.com/RanaKhan777/Python-Projects/tree/main/SpaceShip%20Shooter) – A 2D arcade-style shooting game built with Python & Pygame.  
 🔹 [**Car Rental System (DSA)**](https://github.com/RanaKhan777/Car-Rental-system-Dsa) – Console-based system built with data structures.  
