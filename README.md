@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Haider Khan  
 
-<!--
-**HaiderKhan777/HaiderKhan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 💻 **Python & C++ Developer** | 🎮 **Game Development Enthusiast**  
 
-Here are some ideas to get you started:
+I love turning ideas into real projects — from building fun games in Python to solving complex problems with C++ and DSA.  
+Currently, I’m expanding my skills in software development and exploring creative ways to use technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies  
+- **Languages:** Python, C, C++  
+- **Frameworks & Tools:** Pygame, Html and CSS, VS Code
+- **Interests:** Web Development, Game Development, Algorithms, Data Structures
+
+---
+
+## 📌 Featured Projects  
+## 📌 Featured Projects  
+🔹 [**Portfolio Website**](https://haiderkhan777.github.io/Portfolio/) – A personal portfolio showcasing my projects, skills, and achievements.  
+🔹 [**SpaceShooter Game**](https://github.com/RanaKhan777/Python-Projects/tree/main/SpaceShip%20Shooter) – A 2D arcade-style shooting game built with Python & Pygame.  
+🔹 [**Car Rental System (DSA)**](https://github.com/RanaKhan777/Car-Rental-system-Dsa) – Console-based system built with data structures.  
+🔹 [**Snake Game (C/C++)**](https://github.com/RanaKhan777/SnakeGame-C-) – Classic Snake game made in C/C++.  
+
+---
+
+## 📊 GitHub Stats  
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaKhan777&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaKhan777&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=RanaKhan777&theme=radical)](https://git.io/streak-stats)  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanaKhan777)  
+
