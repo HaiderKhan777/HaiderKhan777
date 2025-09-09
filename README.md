@@ -16,8 +16,8 @@ Currently, I’m expanding my skills in software development and exploring creat
 
 ## 📌 Featured Projects  
 🔹 [**Portfolio Website**](https://haiderkhan777.github.io/Portfolio/) – A personal portfolio showcasing my projects, skills, and achievements.  
-🔹 [**SpaceShooter Game**](https://github.com/RanaKhan777/Python-Projects/tree/main/SpaceShip%20Shooter) – A 2D arcade-style shooting game built with Python & Pygame.  
-🔹 [**Car Rental System (DSA)**](https://github.com/RanaKhan777/Car-Rental-system-Dsa) – Console-based system built with data structures.  
+🔹 [**SpaceShooter Game**](https://github.com/HaiderKhan777/Python-Projects/tree/main/SpaceShip%20Shooter) – A 2D arcade-style shooting game built with Python & Pygame.  
+🔹 [**Car Rental System (DSA)**](https://github.com/HaiderKhan777/Car-Rental-system-Dsa) – Console-based system built with data structures.  
 🔹 [**Snake Game (C/C++)**](https://github.com/HaiderKhan777/SnakeGame-C-) – Classic Snake game made in C/C++.  
 
 ---
@@ -30,6 +30,6 @@ Currently, I’m expanding my skills in software development and exploring creat
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/haider-khan-2a1ab5337/])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/haider-khan-2a1ab5337/))  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderKhan777)  
 
